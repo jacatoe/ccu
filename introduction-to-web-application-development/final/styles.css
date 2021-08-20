@@ -1,0 +1,117 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background-color: crimson;
+}
+
+h1 {
+    font-family: "Century Gothic", sans-serif, serif;
+    font-size: 30px;
+    color: crimson;
+}
+
+h2 {
+    font-size: 16px;
+    color: crimson;
+}
+
+table{
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: salmon;
+}
+
+td, th {
+    border: 3px solid pink;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: pink;
+}
+
+th {
+    background-color: salmon;
+    text-align: center;
+}
+
+legend {
+    color: #cc190f;
+}
+
+header {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: pink;
+    text-align: center;
+}
+
+footer {
+    margin-top: 10px;
+    padding:10px;
+    background-color: pink;
+    font-size: 12px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    display:inline;
+    font-size: 14px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+nav a {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: salmon;
+    font-size: 14px;
+    border: solid 1px #76323f;
+    text-decoration: none;
+}
+nav a:link {
+    color: pink;
+}
+nav a:visited {
+    color: red;
+}
+nav a:hover {
+    color: hotpink;
+    background-color: fuchsia;
+}
+nav a:active {
+    color: darksalmon;
+}
+
+.error {
+    color: blue;
+    background-color: #00f2f9;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+}
+.success {
+    color: blue;
+    background-color: #00f2f9;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+}
+
+p {
+    color: pink;
+    font-size: 20px;
+    text-align: center;
+}
+
+.homediv img{
+    margin-left: 700px;
+}
