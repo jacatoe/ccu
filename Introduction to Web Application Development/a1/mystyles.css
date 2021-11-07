@@ -1,0 +1,95 @@
+* {
+    font-family: "Century Gothic";
+    background-color: #fd00ff;
+}
+
+.title {
+    text-align: center;
+}
+
+header > ul {
+    text-align: left;
+}
+
+aside {
+    float: right;
+    width: 19%;
+    height: 500px;
+    border: 5px solid #00ff38;
+    border-radius: 15px;
+    vertical-align: middle;
+}
+
+aside > h2 {
+    text-align: center;
+}
+
+aside > ul{
+    line-height: 60px;
+}
+
+section {
+    float: left;
+    width: 79%;
+    border: 4px solid #00ff38;
+    border-radius: 15px;
+}
+
+section h2 {
+    text-align: center;
+}
+
+footer {
+    clear: both;
+}
+
+article {
+    text-align: left;
+}
+
+article > h3 {
+    padding: 10px;
+}
+
+p {
+    padding: 10px;
+}
+
+body {
+    color: #fdff00;
+}
+
+#indent {
+    margin-left: 20px;
+}
+
+.iconimg {
+    float: right;
+    position: relative;
+    border: 5px solid #00ff38;
+    border-radius: 15px;
+}
+
+#logos {
+    float: right;
+    margin: -500px 150px 0 15px;
+}
+
+a:link {
+    color: purple;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: red;
+}
+
+a:visited {
+    color: blue;
+}
+
+
+
