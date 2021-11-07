@@ -1,1 +1,0 @@
-trpc.o: ../trpc.c
